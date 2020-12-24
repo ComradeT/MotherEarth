@@ -274,7 +274,7 @@ img {
 .first {
   height: 100vh;
   min-height: 600px;
-  background-image: url(../img/Background.jpg);
+  background-image: url(../img/Background-min.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -495,7 +495,7 @@ img {
 
 /*become end*/
 .featured {
-  background-image: url(../img/featuredbg.jpg);
+  background-image: url(../img/featuredbg-min.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -692,16 +692,16 @@ img {
   transform: translateY(0);
 }
 .videos .slide-1 {
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1-min.jpg);
 }
 .videos .slide-2 {
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1-min.jpg);
 }
 .videos .slide-3 {
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1-min.jpg);
 }
 .videos .slide-4 {
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1-min.jpg);
 }
 .videos .slide-play {
   position: absolute;
@@ -727,7 +727,7 @@ img {
 }
 .sign .sign_container {
   position: relative;
-  background-image: url(../img/sign-bg.jpg);
+  background-image: url(../img/sign-bg-min.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -917,25 +917,25 @@ img {
   height: 710px;
 }
 .insp .insp__item--bg1 {
-  background-image: url(../img/inspbg-1.jpg);
+  background-image: url(../img/inspbg-1-min.jpg);
 }
 .insp .insp__item--bg2 {
-  background-image: url(../img/inspbg-2.jpg);
+  background-image: url(../img/inspbg-2-min.jpg);
 }
 .insp .insp__item--bg3 {
-  background-image: url(../img/inspbg-3.jpg);
+  background-image: url(../img/inspbg-3-min.jpg);
 }
 .insp .insp__item--bg4 {
-  background-image: url(../img/inspbg-4.jpg);
+  background-image: url(../img/inspbg-4-min.jpg);
 }
 .insp .insp__item--bg5 {
-  background-image: url(../img/inspbg-5.jpg);
+  background-image: url(../img//inspbg-5-min.jpg);
 }
 .insp .insp__item--bg6 {
-  background-image: url(../img/inspbg-6.jpg);
+  background-image: url(../img/inspbg-6-min.jpg);
 }
 .insp .insp__item--bg7 {
-  background-image: url(../img/inspbg-7.jpg);
+  background-image: url(../img//inspbg-7-min.jpg);
 }
 
 /*insp end*/
